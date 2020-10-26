@@ -16,6 +16,6 @@
   <project name="lichang70/meta-st-stm32mp-addons" path="layers/meta-st/meta-st-stm32mp-addons" remote="LicyPublic" revision="2b992cde26a4df9da34d8baee8491b3d9bc8f109"/>
   <project name="lichang70/meta-st-scripts" path="layers/meta-st/scripts" remote="LicyPublic" revision="b600010fa49e2bd4d3f10b732405200de974d3e2"/>
   <project name="lichang70/openembedded-core" path="layers/openembedded-core" remote="LicyPublic" revision="1795f30d8ab73d35710ca99064c51190dc84853e"/>
-  <project name="meta-myir-st" path="layers/meta-myir-st" remote="MyirPublic" revision="b9f40bf46785e39917b836721dbc6cac1c71e67c"/>
+  <project name="meta-myir-st" path="layers/meta-myir-st" remote="MyirPublic" revision="c9776341a9224f96c532723e2304d20b0a0ab37b"/>
 
 </manifest>
