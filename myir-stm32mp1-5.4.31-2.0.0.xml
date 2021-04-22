@@ -17,6 +17,6 @@
   <project name="lichang70/meta-st-scripts" path="layers/meta-st/scripts" remote="LicyPublic" revision="b600010fa49e2bd4d3f10b732405200de974d3e2"/>
   <project name="lichang70/openembedded-core" path="layers/openembedded-core" remote="LicyPublic" revision="1795f30d8ab73d35710ca99064c51190dc84853e"/>
   <project name="meta-myir-st" path="layers/meta-myir-st" remote="MyirPublic" revision="193348859758494f391704543642452029f3faf4"/>
-  <project name="meta-myir-st-tiny" path="layers/meta-myir-st-tiny" remote="MyirPublic" revision="14496e5f0c199b2207ab438041dd0a395399aae2"/>
+  <project name="meta-myir-st-tiny" path="layers/meta-myir-st-tiny" remote="MyirPublic" revision="8447a1593cab30f5ce2c227eff8925ea8112b691"/>
 
 </manifest>
