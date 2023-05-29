@@ -15,5 +15,5 @@
   <project name="meta-st-stm32mp-addons" path="layers/meta-st/meta-st-stm32mp-addons" revision="f1a18b73343afd8dd5f9aa7f5b605d139fb9e4a8"/>
   <project name="meta-st-scripts" path="layers/meta-st/scripts" revision="bc063e7af04d04aff66401eb73610381bebc49a0"/>
   <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="f7766da462905ec67bf549d46b8017be36cd5b2a"/>
-  <project name="meta-myir-st" path="layers/meta-myir-st" remote="meta-myir" revision="c14f67e027cb588f291cfdab58f2709125d767b9"/>
+  <project name="meta-myir-st" path="layers/meta-myir-st" remote="meta-myir" revision="917b3097b828939c93afe25d31caa7245c112102"/>
 </manifest>
