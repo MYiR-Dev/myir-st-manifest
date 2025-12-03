@@ -1,4 +1,4 @@
-# myd-ld25x mainifest
+# myd-ld25x/myd-lf25x mainifest
 #note: The Python version > 3.0
 cmd:
 
