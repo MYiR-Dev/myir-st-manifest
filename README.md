@@ -1,4 +1,4 @@
-# myd-ld25x mainifest
+# myd-yf13x mainifest
 #note: The Python version > 3.0
 cmd:
 1.  chmod a+x ~/bin/repo
