@@ -19,7 +19,7 @@
   <project name="meta-myir-stm32mp-addons" path="layers/meta-myir/meta-myir-stm32mp-addons" remote="MYiR-Dev" revision="ad667afe266eb1ca706bf92ea6d99cc9ec74d662"/>
   <project name="meta-myir-scripts" path="layers/meta-myir/scripts" remote="MYiR-Dev" revision="b1cc0211f792e355d96f6a7462ab138a11d40a0a"/>
   <project name="meta-myir-x-linux-qt" path="layers/meta-myir/meta-myir-x-linux-qt" remote="MYiR-Dev" revision="59edf873d5f5db8bcfcb24f17bda3f076f80cbf6"/>
-  <project name="meta-myir-openstlinux" path="layers/meta-myir/meta-myir-openstlinux" remote="MYiR-Dev" revision="3874876112d5eb9c5360789eb58d6ea0349ed813"/>
+  <project name="meta-myir-openstlinux" path="layers/meta-myir/meta-myir-openstlinux" remote="MYiR-Dev" revision="6b929e59288c67a0da24eb064809400965a2d1db"/>
   <project name="meta-myir-x-linux-ai" path="layers/meta-myir/meta-myir-x-linux-ai" remote="MYiR-Dev" revision="5364361d06c97241dfc97f8ee965a1f4521e3d4d"/>
   <project name="meta-myir-x-linux-rt" path="layers/meta-myir/meta-myir-x-linux-rt" remote="MYiR-Dev" revision="360cf3557ee2e101e7ef3e706481e222e0e7fab9"/>
   <project name="meta-myir-stm32mp-tsn-acm" path="layers/meta-myir/meta-myir-stm32mp-tsn-acm" remote="MYiR-Dev" revision="7ef815bed3d8366b687f9821addf8eaf4dc3fcc0"/>
